@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
 | [0713-subarray-product-less-than-k](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Binary Search
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
