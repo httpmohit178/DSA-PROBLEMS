@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
 | [2073-time-needed-to-buy-tickets](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2073-time-needed-to-buy-tickets) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0506-relative-ranks) |
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Counting Sort
 |  |
 | ------- |
@@ -98,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0506-relative-ranks) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
