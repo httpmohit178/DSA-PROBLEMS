@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-last-stone-weight](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1046-last-stone-weight) |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Counting Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
 ## Queue
 |  |
@@ -75,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0076-minimum-window-substring](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0076-minimum-window-substring) |
+| [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1046-last-stone-weight) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -125,8 +131,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
