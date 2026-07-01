@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
+| [0860-lemonade-change](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0973-k-closest-points-to-origin) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-last-stone-weight](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1046-last-stone-weight) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
