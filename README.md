@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0057-insert-interval) |
 | [0303-range-sum-query-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
