@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
+| [0463-island-perimeter](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0304-range-sum-query-2d-immutable) |
+| [0463-island-perimeter](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
@@ -172,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
 | [2360-longest-cycle-in-a-graph](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
