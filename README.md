@@ -171,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
+| [2360-longest-cycle-in-a-graph](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
+| [2360-longest-cycle-in-a-graph](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2360-longest-cycle-in-a-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -183,4 +185,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
+| [2360-longest-cycle-in-a-graph](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2360-longest-cycle-in-a-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
