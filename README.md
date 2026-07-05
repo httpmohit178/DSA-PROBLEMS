@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0733-flood-fill) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2596-check-knight-tour-configuration) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
