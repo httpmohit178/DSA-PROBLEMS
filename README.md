@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2596-check-knight-tour-configuration) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [2360-longest-cycle-in-a-graph](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -208,10 +210,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0547-number-of-provinces](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
