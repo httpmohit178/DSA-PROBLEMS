@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-last-stone-weight](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1046-last-stone-weight) |
+| [1765-map-of-highest-peak](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
 | [2073-time-needed-to-buy-tickets](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2596-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1765-map-of-highest-peak) |
 | [2360-longest-cycle-in-a-graph](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2596-check-knight-tour-configuration) |
