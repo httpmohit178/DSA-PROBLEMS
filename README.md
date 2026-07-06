@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0057-insert-interval) |
 | [0303-range-sum-query-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
