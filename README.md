@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2073-time-needed-to-buy-tickets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2596-check-knight-tour-configuration](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2596-check-knight-tour-configuration) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
 | ------- |
