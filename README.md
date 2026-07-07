@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-last-stone-weight](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1288-remove-covered-intervals) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1765-map-of-highest-peak](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1288-remove-covered-intervals) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Counting Sort
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Hash Table
 |  |
