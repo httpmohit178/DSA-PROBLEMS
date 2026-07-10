@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-last-stone-weight](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Depth-First Search
 |  |
 | ------- |
