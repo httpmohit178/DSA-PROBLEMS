@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-last-stone-weight](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1552-magnetic-force-between-two-balls) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0542-01-matrix) |
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Depth-First Search
 |  |
