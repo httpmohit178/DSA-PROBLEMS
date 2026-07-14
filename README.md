@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2596-check-knight-tour-configuration](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2596-check-knight-tour-configuration) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3355-zero-array-transformation-i](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3355-zero-array-transformation-i) |
 ## Greedy
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0973-k-closest-points-to-origin) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Geometry
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
