@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0221-maximal-square](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0221-maximal-square) |
 | [0303-range-sum-query-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0463-island-perimeter) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0221-maximal-square](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0542-01-matrix) |
