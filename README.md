@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0973-k-closest-points-to-origin) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
 | ------- |
@@ -284,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
