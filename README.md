@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0221-maximal-square](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0221-maximal-square) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0221-maximal-square](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -292,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
