@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0542-01-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0860-lemonade-change](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0881-boats-to-save-people) |
