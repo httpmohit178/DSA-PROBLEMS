@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0076-minimum-window-substring) |
+| [0647-palindromic-substrings](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
 ## Divide and Conquer
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0931-minimum-falling-path-sum](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0881-boats-to-save-people](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
 ## Memoization
