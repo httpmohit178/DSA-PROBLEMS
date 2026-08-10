@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0973-k-closest-points-to-origin) |
+| [1510-stone-game-iv](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1510-stone-game-iv](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Depth-First Search
 |  |
@@ -311,4 +313,24 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
