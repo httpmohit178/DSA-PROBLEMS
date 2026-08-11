@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2596-check-knight-tour-configuration](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2596-check-knight-tour-configuration) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3355-zero-array-transformation-i](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/3355-zero-array-transformation-i) |
 ## Greedy
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
