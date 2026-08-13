@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1833-maximum-ice-cream-bars) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2073-time-needed-to-buy-tickets) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0307-range-sum-query-mutable) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Matrix
 |  |
 | ------- |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
