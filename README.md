@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0221-maximal-square) |
 | [0303-range-sum-query-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0304-range-sum-query-2d-immutable) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0076-minimum-window-substring](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0212-word-search-ii) |
 | [0647-palindromic-substrings](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [1048-longest-string-chain](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/1048-longest-string-chain) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
@@ -347,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
