@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0212-word-search-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0198-house-robber) |
@@ -356,9 +358,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0212-word-search-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0010-regular-expression-matching) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/httpmohit178/DSA-PROBLEMS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
